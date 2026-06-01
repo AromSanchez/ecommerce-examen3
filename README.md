@@ -52,7 +52,7 @@ npm run dev
 npm start
 ```
 
-El servidor estará disponible en `http://localhost:3000`
+El servidor esta desplegado en `https://ecommerce-examen3.onrender.com`
 
 ---
 
