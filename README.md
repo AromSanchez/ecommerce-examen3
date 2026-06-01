@@ -6,8 +6,6 @@ API RESTful para gestión de productos de un ecommerce, construida con **Express
 
 ## 🚀 URL del Proyecto en Línea
 
-> ⚠️ **Pendiente de despliegue** — Actualiza esta sección con la URL de Render/Railway una vez desplegado.
-> 
 > Ejemplo: `https://ecommerce-api.onrender.com`
 
 ---
@@ -170,23 +168,6 @@ curl http://localhost:3000/api/health
 
 ---
 
-## 🧪 Colección Postman
-
-Importa el archivo `api/ecommerce-api.postman_collection.json` en Postman para tener todos los endpoints listos para probar.
-
----
-
-## 🚀 Despliegue en Render
-
-1. Sube el código a GitHub
-2. Ve a [render.com](https://render.com) → **New Web Service**
-3. Conecta tu repo y configura:
-   - **Build Command:** `npm install`
-   - **Start Command:** `npm start`
-4. Agrega la variable de entorno `DATABASE_URL`
-5. ¡Deploy!
-
----
 
 ## 🛠️ Tecnologías
 
@@ -199,7 +180,3 @@ Importa el archivo `api/ecommerce-api.postman_collection.json` en Postman para t
 - **dotenv** — Variables de entorno
 
 ---
-
-## 📄 Licencia
-
-MIT
