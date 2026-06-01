@@ -6,7 +6,7 @@ API RESTful para gestión de productos de un ecommerce, construida con **Express
 
 ## 🚀 URL del Proyecto en Línea
 
-> Ejemplo: `https://ecommerce-api.onrender.com`
+> Ejemplo: `https://ecommerce-examen3.onrender.com`
 
 ---
 
@@ -52,7 +52,7 @@ npm run dev
 npm start
 ```
 
-El servidor esta desplegado en `https://ecommerce-examen3.onrender.com`
+El servidor estará disponible en `http://localhost:3000`
 
 ---
 
